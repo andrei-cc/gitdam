@@ -7,4 +7,5 @@ class Animal{
         $this->nom = $nomP;
         $this->edat = $edatP;
     }
+    private $prova;
 }
